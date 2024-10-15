@@ -1,6 +1,6 @@
 <?php
 $config = [
-    'APIKEY'            => 'relife-apipanas2',            // YOU APIKEY
+    'APIKEY'            => 'YOU APIKEY',            // YOU APIKEY
     'PROXY_USERPW'      => true,                    // PROXY WITH AUTH USERNAME:PASSWORD
     'PROXY_LIST'        => 'proxy.txt',             // PROXY LIST
     'PROXY_AUTH'        => 'USERNAME:PASSWORD',     // PROXY AUTH
